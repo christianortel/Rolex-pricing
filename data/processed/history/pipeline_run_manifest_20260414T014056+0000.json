@@ -1,0 +1,113 @@
+{
+  "pipeline_run_at_utc": "2026-04-14T01:40:56+00:00",
+  "schema_version": "2026-04-13",
+  "source_inputs": {
+    "ad_snapshot_directory": "AD_List",
+    "ad_snapshot_file_count": 28,
+    "ad_snapshot_files": [
+      "Rolex_AD_List_10_2021.csv",
+      "Rolex_AD_List_10_2022.csv",
+      "Rolex_AD_List_10_2023.csv",
+      "Rolex_AD_List_11_2021.csv",
+      "Rolex_AD_List_11_2022.csv",
+      "Rolex_AD_List_12_2021.csv",
+      "Rolex_AD_List_12_2022.csv",
+      "Rolex_AD_List_1_2022.csv",
+      "Rolex_AD_List_1_2023.csv",
+      "Rolex_AD_List_2_2022.csv",
+      "Rolex_AD_List_2_2023.csv",
+      "Rolex_AD_List_3_2022.csv",
+      "Rolex_AD_List_3_2023.csv",
+      "Rolex_AD_List_4_2022.csv",
+      "Rolex_AD_List_4_2023.csv",
+      "Rolex_AD_List_5_2022.csv",
+      "Rolex_AD_List_5_2023.csv",
+      "Rolex_AD_List_6_2022.csv",
+      "Rolex_AD_List_6_2023.csv",
+      "Rolex_AD_List_7_2021.csv",
+      "Rolex_AD_List_7_2022.csv",
+      "Rolex_AD_List_7_2023.csv",
+      "Rolex_AD_List_8_2021.csv",
+      "Rolex_AD_List_8_2022.csv",
+      "Rolex_AD_List_8_2023.csv",
+      "Rolex_AD_List_9_2021.csv",
+      "Rolex_AD_List_9_2022.csv",
+      "Rolex_AD_List_9_2023.csv"
+    ],
+    "ad_count_file": "AD_Count/AD_Count.txt",
+    "pricing_file": "Prices/Weekly_Median_Prices.csv",
+    "reference_catalog_file": "config/reference_catalog.json",
+    "ad_snapshot_directory_mtime_utc": "2026-04-13T23:52:54+00:00",
+    "ad_count_file_mtime_utc": "2026-04-13T23:52:54+00:00",
+    "pricing_file_mtime_utc": "2026-04-13T23:52:54+00:00",
+    "reference_catalog_mtime_utc": "2026-04-14T00:06:29+00:00"
+  },
+  "coverage": {
+    "ad_snapshot_month_start": "2021-07-01",
+    "ad_snapshot_month_end": "2023-10-01",
+    "pricing_date_start": "2021-07-23",
+    "pricing_date_end": "2024-09-13",
+    "pricing_reference_count": 12
+  },
+  "quality_summary": {
+    "flagged_snapshot_months": 10,
+    "latest_ad_count_us": 295
+  },
+  "outputs": {
+    "ad_snapshot_history": {
+      "path": "data/processed/ad_snapshot_history.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 8774
+    },
+    "ad_change_log": {
+      "path": "data/processed/ad_change_log.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 413
+    },
+    "ad_state_monthly_counts": {
+      "path": "data/processed/ad_state_monthly_counts.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 1342
+    },
+    "grey_market_weekly_long": {
+      "path": "data/processed/grey_market_weekly_long.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 1682
+    },
+    "grey_reference_summary": {
+      "path": "data/processed/grey_reference_summary.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 12
+    },
+    "monthly_market_panel": {
+      "path": "data/processed/monthly_market_panel.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 398
+    },
+    "validation_summary": {
+      "path": "data/quality/validation_summary.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 28
+    },
+    "monthly_network_pricing_correlation": {
+      "path": "data/quality/monthly_network_pricing_correlation.csv",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": 12
+    },
+    "us_ad_count_chart": {
+      "path": "reports/figures/us_ad_count.svg",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": null
+    },
+    "average_grey_markup_chart": {
+      "path": "reports/figures/average_grey_markup.svg",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": null
+    },
+    "monthly_market_report": {
+      "path": "reports/monthly_market_summary.md",
+      "mtime_utc": "2026-04-14T01:40:56+00:00",
+      "record_count": null
+    }
+  }
+}

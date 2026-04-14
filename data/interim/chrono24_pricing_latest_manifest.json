@@ -1,0 +1,74 @@
+{
+  "run_id": "20260414T002433Z",
+  "collected_at_utc": "2026-04-14T00:24:33+00:00",
+  "collector": "chrono24_pricing",
+  "schema_version": "2026-04-13",
+  "references_targeted": 12,
+  "aborted_early": true,
+  "abort_reason": "Aborted after 5 consecutive reference-page failures with no successful fetches.",
+  "fetch_success_count": 0,
+  "fetch_failure_count": 5,
+  "parsed_record_count": 0,
+  "records_with_parser_diagnostics": 0,
+  "parser_diagnostic_counts": {},
+  "fetch_records": [
+    {
+      "url": "https://www.chrono24.com/rolex/ref-116500ln.htm",
+      "relative_path": "rolex/ref-116500ln_htm.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:24:33+00:00"
+    },
+    {
+      "url": "https://www.chrono24.com/rolex/ref-124060.htm",
+      "relative_path": "rolex/ref-124060_htm.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:24:35+00:00"
+    },
+    {
+      "url": "https://www.chrono24.com/rolex/ref-124270.htm",
+      "relative_path": "rolex/ref-124270_htm.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:24:37+00:00"
+    },
+    {
+      "url": "https://www.chrono24.com/rolex/ref-124300.htm",
+      "relative_path": "rolex/ref-124300_htm.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:24:40+00:00"
+    },
+    {
+      "url": "https://www.chrono24.com/rolex/ref-126610ln.htm",
+      "relative_path": "rolex/ref-126610ln_htm.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:24:42+00:00"
+    }
+  ],
+  "interim_snapshot_file": "data/interim/chrono24_pricing_live_snapshot.csv",
+  "source_freshness_utc": "2026-04-14T00:24:33+00:00",
+  "source_freshness_date": "2026-04-14"
+}

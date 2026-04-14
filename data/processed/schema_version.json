@@ -1,0 +1,6 @@
+{
+  "schema_version": "2026-04-13",
+  "generated_at_utc": "2026-04-14T01:40:56+00:00",
+  "pipeline_manifest_file": "data/processed/pipeline_run_manifest.json",
+  "pipeline_history_file": "data/processed/pipeline_run_history.csv"
+}

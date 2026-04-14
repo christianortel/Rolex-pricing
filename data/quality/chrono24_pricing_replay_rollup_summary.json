@@ -1,0 +1,13 @@
+{
+  "collector": "chrono24_pricing",
+  "generated_at_utc": "2026-04-14T01:18:04+00:00",
+  "run_count": 1,
+  "runs_with_snapshot_mismatch": 0,
+  "runs_missing_source_snapshot": 0,
+  "runs_with_diff_rows": 0,
+  "total_diff_rows": 0,
+  "field_mismatch_counts": {},
+  "top_mismatched_fields": [],
+  "parser_diagnostic_counts": {},
+  "rollup_csv_file": "data/quality/chrono24_pricing_replay_rollup.csv"
+}

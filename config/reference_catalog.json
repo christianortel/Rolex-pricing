@@ -1,0 +1,50 @@
+{
+  "116500LN": {
+    "family": "Daytona",
+    "msrp_usd": 14800
+  },
+  "124060": {
+    "family": "Submariner",
+    "msrp_usd": 9100
+  },
+  "124270": {
+    "family": "Explorer",
+    "msrp_usd": 7250
+  },
+  "124300": {
+    "family": "Oyster Perpetual",
+    "msrp_usd": 6400
+  },
+  "126610LN": {
+    "family": "Submariner Date",
+    "msrp_usd": 10250
+  },
+  "126610LV": {
+    "family": "Submariner Date",
+    "msrp_usd": 10800
+  },
+  "126622": {
+    "family": "Yacht-Master",
+    "msrp_usd": 12300
+  },
+  "126710BLNR": {
+    "family": "GMT-Master II",
+    "msrp_usd": 10900
+  },
+  "126710BLRO": {
+    "family": "GMT-Master II",
+    "msrp_usd": 10900
+  },
+  "126711CHNR": {
+    "family": "GMT-Master II",
+    "msrp_usd": 16150
+  },
+  "126720VTNR": {
+    "family": "GMT-Master II",
+    "msrp_usd": 11450
+  },
+  "226570": {
+    "family": "Explorer II",
+    "msrp_usd": 9650
+  }
+}

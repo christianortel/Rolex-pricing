@@ -1,0 +1,3 @@
+source_run_id,source_manifest_file,source_parsed_record_count,replay_parsed_record_count,snapshot_matches_source,diff_row_count,field_mismatch_count,missing_in_source_count,missing_in_replay_count,missing_raw_file_count,differing_fields,state_pages_replayed,city_pages_replayed,detail_pages_replayed
+20260414T001610Z,data/raw/rolex_ad/20260414T001610Z/manifest.json,0,0,True,0,0,0,0,0,,0,0,0
+20260414T001838Z,data/raw/rolex_ad/20260414T001838Z/manifest.json,0,0,True,0,0,0,0,0,,0,0,0

@@ -1,0 +1,939 @@
+{
+  "run_id": "20260414T001610Z",
+  "collected_at_utc": "2026-04-14T00:16:10+00:00",
+  "collector": "rolex_ad",
+  "schema_version": "2026-04-13",
+  "seed_state_pages": 51,
+  "city_pages_discovered": 0,
+  "dealer_detail_pages_discovered": 0,
+  "fetch_success_count": 0,
+  "fetch_failure_count": 51,
+  "parsed_record_count": 0,
+  "records_with_parser_diagnostics": 0,
+  "parser_diagnostic_counts": {},
+  "fetch_records": [
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/alabama",
+      "relative_path": "en-us/store-locator/unitedstates/alabama.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:10+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/alaska",
+      "relative_path": "en-us/store-locator/unitedstates/alaska.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:13+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/arizona",
+      "relative_path": "en-us/store-locator/unitedstates/arizona.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:15+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/arkansas",
+      "relative_path": "en-us/store-locator/unitedstates/arkansas.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:17+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/california",
+      "relative_path": "en-us/store-locator/unitedstates/california.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:20+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/colorado",
+      "relative_path": "en-us/store-locator/unitedstates/colorado.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:22+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/connecticut",
+      "relative_path": "en-us/store-locator/unitedstates/connecticut.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:24+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/delaware",
+      "relative_path": "en-us/store-locator/unitedstates/delaware.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:26+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/district-of-columbia",
+      "relative_path": "en-us/store-locator/unitedstates/district-of-columbia.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:29+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/florida",
+      "relative_path": "en-us/store-locator/unitedstates/florida.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:31+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/georgia",
+      "relative_path": "en-us/store-locator/unitedstates/georgia.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:33+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/hawaii",
+      "relative_path": "en-us/store-locator/unitedstates/hawaii.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:36+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/idaho",
+      "relative_path": "en-us/store-locator/unitedstates/idaho.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:38+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/illinois",
+      "relative_path": "en-us/store-locator/unitedstates/illinois.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:40+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/indiana",
+      "relative_path": "en-us/store-locator/unitedstates/indiana.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:43+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/iowa",
+      "relative_path": "en-us/store-locator/unitedstates/iowa.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:45+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/kansas",
+      "relative_path": "en-us/store-locator/unitedstates/kansas.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:47+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/kentucky",
+      "relative_path": "en-us/store-locator/unitedstates/kentucky.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:50+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/louisiana",
+      "relative_path": "en-us/store-locator/unitedstates/louisiana.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:52+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/maine",
+      "relative_path": "en-us/store-locator/unitedstates/maine.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:54+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/maryland",
+      "relative_path": "en-us/store-locator/unitedstates/maryland.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:56+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/massachusetts",
+      "relative_path": "en-us/store-locator/unitedstates/massachusetts.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:16:59+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/michigan",
+      "relative_path": "en-us/store-locator/unitedstates/michigan.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:01+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/minnesota",
+      "relative_path": "en-us/store-locator/unitedstates/minnesota.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:03+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/mississippi",
+      "relative_path": "en-us/store-locator/unitedstates/mississippi.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:06+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/missouri",
+      "relative_path": "en-us/store-locator/unitedstates/missouri.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:08+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/montana",
+      "relative_path": "en-us/store-locator/unitedstates/montana.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:10+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/nebraska",
+      "relative_path": "en-us/store-locator/unitedstates/nebraska.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:13+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/nevada",
+      "relative_path": "en-us/store-locator/unitedstates/nevada.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:15+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-hampshire",
+      "relative_path": "en-us/store-locator/unitedstates/new-hampshire.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:17+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-jersey",
+      "relative_path": "en-us/store-locator/unitedstates/new-jersey.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:20+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-mexico",
+      "relative_path": "en-us/store-locator/unitedstates/new-mexico.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:22+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-york",
+      "relative_path": "en-us/store-locator/unitedstates/new-york.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:24+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/north-carolina",
+      "relative_path": "en-us/store-locator/unitedstates/north-carolina.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:26+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/north-dakota",
+      "relative_path": "en-us/store-locator/unitedstates/north-dakota.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:29+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/ohio",
+      "relative_path": "en-us/store-locator/unitedstates/ohio.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:31+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/oklahoma",
+      "relative_path": "en-us/store-locator/unitedstates/oklahoma.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:33+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/oregon",
+      "relative_path": "en-us/store-locator/unitedstates/oregon.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:36+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/pennsylvania",
+      "relative_path": "en-us/store-locator/unitedstates/pennsylvania.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:38+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/rhode-island",
+      "relative_path": "en-us/store-locator/unitedstates/rhode-island.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:40+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/south-carolina",
+      "relative_path": "en-us/store-locator/unitedstates/south-carolina.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:43+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/south-dakota",
+      "relative_path": "en-us/store-locator/unitedstates/south-dakota.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:45+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/tennessee",
+      "relative_path": "en-us/store-locator/unitedstates/tennessee.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:47+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/texas",
+      "relative_path": "en-us/store-locator/unitedstates/texas.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:50+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/utah",
+      "relative_path": "en-us/store-locator/unitedstates/utah.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:52+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/vermont",
+      "relative_path": "en-us/store-locator/unitedstates/vermont.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:54+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/virginia",
+      "relative_path": "en-us/store-locator/unitedstates/virginia.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:56+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/washington",
+      "relative_path": "en-us/store-locator/unitedstates/washington.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:17:59+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/west-virginia",
+      "relative_path": "en-us/store-locator/unitedstates/west-virginia.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:18:01+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/wisconsin",
+      "relative_path": "en-us/store-locator/unitedstates/wisconsin.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:18:03+00:00"
+    },
+    {
+      "url": "https://www.rolex.com/en-us/store-locator/unitedstates/wyoming",
+      "relative_path": "en-us/store-locator/unitedstates/wyoming.html",
+      "status_code": null,
+      "ok": false,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
+      "content_type": "",
+      "bytes_written": 0,
+      "sha256_hex": "",
+      "fetched_at_utc": "2026-04-14T00:18:06+00:00"
+    }
+  ],
+  "state_page_diagnostics": [
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/alabama",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/alaska",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/arizona",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/arkansas",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/california",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/colorado",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/connecticut",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/delaware",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/district-of-columbia",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/florida",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/georgia",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/hawaii",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/idaho",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/illinois",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/indiana",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/iowa",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/kansas",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/kentucky",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/louisiana",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/maine",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/maryland",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/massachusetts",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/michigan",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/minnesota",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/mississippi",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/missouri",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/montana",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/nebraska",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/nevada",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-hampshire",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-jersey",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-mexico",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/new-york",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/north-carolina",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/north-dakota",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/ohio",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/oklahoma",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/oregon",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/pennsylvania",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/rhode-island",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/south-carolina",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/south-dakota",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/tennessee",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/texas",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/utah",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/vermont",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/virginia",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/washington",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/west-virginia",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/wisconsin",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    },
+    {
+      "state_url": "https://www.rolex.com/en-us/store-locator/unitedstates/wyoming",
+      "ok": false,
+      "dealer_links_found": 0,
+      "city_links_found": 0,
+      "error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    }
+  ],
+  "interim_snapshot_file": "data/interim/rolex_ad_live_snapshot.csv",
+  "source_freshness_utc": "2026-04-14T00:16:10+00:00",
+  "source_freshness_date": "2026-04-14"
+}

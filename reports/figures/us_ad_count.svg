@@ -1,0 +1,27 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='920' height='420' viewBox='0 0 920 420'>
+<style>
+text { font-family: Arial, sans-serif; fill: #1f2937; }
+.title { font-size: 22px; font-weight: 700; }
+.axis { stroke: #9ca3af; stroke-width: 1; }
+.grid { stroke: #e5e7eb; stroke-width: 1; }
+.line { fill: none; stroke: #0f766e; stroke-width: 3; }
+</style>
+<text class='title' x='70' y='28'>U.S. Rolex Authorized Dealer Count</text>
+<rect x='70' y='45' width='820' height='320' fill='#f8fafc' stroke='#e5e7eb' />
+<line class='grid' x1='70' y1='365.00' x2='890' y2='365.00' />
+<text x='12' y='369.00' font-size='12'>295.0</text>
+<line class='grid' x1='70' y1='285.00' x2='890' y2='285.00' />
+<text x='12' y='289.00' font-size='12'>305.2</text>
+<line class='grid' x1='70' y1='205.00' x2='890' y2='205.00' />
+<text x='12' y='209.00' font-size='12'>315.5</text>
+<line class='grid' x1='70' y1='125.00' x2='890' y2='125.00' />
+<text x='12' y='129.00' font-size='12'>325.8</text>
+<line class='grid' x1='70' y1='45.00' x2='890' y2='45.00' />
+<text x='12' y='49.00' font-size='12'>336.0</text>
+<line class='axis' x1='70' y1='365' x2='890' y2='365' />
+<line class='axis' x1='70' y1='45' x2='70' y2='365' />
+<polyline class='line' points='70.00,52.80 100.37,45.00 130.74,45.00 161.11,52.80 191.48,52.80 221.85,60.61 252.22,177.68 282.59,177.68 312.96,185.49 343.33,185.49 373.70,193.29 404.07,201.10 434.44,216.71 464.81,208.90 495.19,224.51 525.56,263.54 555.93,263.54 586.30,263.54 616.67,247.93 647.04,302.56 677.41,318.17 707.78,341.59 738.15,341.59 768.52,349.39 798.89,349.39 829.26,365.00 859.63,357.20 890.00,365.00' />
+<text x='50.00' y='402' font-size='12'>2021-07-01</text>
+<text x='460.00' y='402' font-size='12'>2022-09-01</text>
+<text x='870.00' y='402' font-size='12'>2023-10-01</text>
+</svg>
